@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Boundaries</name>
+	<gx:CascadingStyle kml:id="__managed_style_05A88270D831052404C4">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.36364</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1D0D0C814431052404C3">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.90909</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0F3D29B3F531052404C3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1D0D0C814431052404C3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_05A88270D831052404C4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0677E1054731052404C3">
+		<name>Taiwan boundary</name>
+		<LookAt>
+			<longitude>121.7344455884504</longitude>
+			<latitude>23.92329831058359</latitude>
+			<altitude>62.71949600735956</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1636797.231012583</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F3D29B3F531052404C3</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						121.2609652590305,26.31202795314021,0 118.6327526519708,23.91158212285402,0 118.1668362146982,20.9226710570984,0 122.9969636994878,20.63204445358794,0 123.5092885129962,26.20155446629882,0 121.2609652590305,26.31202795314021,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="013B536708310526687A">
+		<name>Hong Kong boundary</name>
+		<LookAt>
+			<longitude>114.2208712644474</longitude>
+			<latitude>22.36503283734882</latitude>
+			<altitude>299.2190567689306</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>153107.3082501814</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F3D29B3F531052404C3</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						113.8018653841659,22.38217508896945,0 113.7417113211132,22.24810707305629,0 113.8606866101464,22.13873600580735,0 114.473679514805,22.12452086424124,0 114.4049362981389,22.55224518093376,0 114.16449319379,22.56886964284395,0 113.969228808895,22.49467788042451,0 113.8018653841659,22.38217508896945,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0D78D87CB1310528895B">
+		<name>Macau boundary</name>
+		<LookAt>
+			<longitude>113.6133220526475</longitude>
+			<latitude>22.14067161290297</latitude>
+			<altitude>-8.375186927141815</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>59037.70814979449</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F3D29B3F531052404C3</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						113.5246981165399,22.18414458264369,0 113.5482884163878,22.144939344414,0 113.5485193493096,22.10205658012041,0 113.5681880635948,22.09025468332812,0 113.6145503549348,22.09371077332379,0 113.5935466187697,22.21665828516874,0 113.5434556488441,22.2234862788079,0 113.5253502510167,22.2083587414534,0 113.5246981165399,22.18414458264369,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="06B6558E39310538D3CD">
+		<name>China boundary</name>
+		<LookAt>
+			<longitude>106.2081312116846</longitude>
+			<latitude>34.70706129476195</latitude>
+			<altitude>1358.146033365458</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>7717809.819839001</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F3D29B3F531052404C3</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						107.8973733121041,21.29206943536157,0 108.6066184329415,17.75823240643058,0 125.913006044032,18.90784319702411,0 128.5628212270744,31.13811552514781,0 124.9370956116744,33.81966914945097,0 124.0232085095437,39.13082542030939,0 131.9132668674246,41.52880010079262,0 135.5923390136213,48.37896049292777,0 127.4948282640856,53.2401175186809,0 121.8292048750092,54.51500942013367,0 111.8942585488605,45.45218452643208,0 109.8113155785911,42.94257243019249,0 96.84425525666065,43.08617185473222,0 96.28206660835602,44.3896129088757,0 91.46062858375311,45.53328504242598,0 91.42377680197887,47.77586155528959,0 87.0098493533379,49.58468867471388,0 82.7028673572332,47.46079695870164,0 79.66597344728299,45.26213655741632,0 79.86445429887883,42.68018245032157,0 74.4205787414424,40.8616104036693,0 73.31406885411333,39.43855188692437,0 72.60879732558129,36.4014161538282,0 73.94200791623562,33.26550801710336,0 83.90999314707722,27.77975358751668,0 90.47821944445789,27.11538043714165,0 97.6123796025465,27.07390912431352,0 96.81733635768252,23.65001692519949,0 101.0014362766858,20.58000957873124,0 105.3101117918342,22.99096565142264,0 107.8973733121041,21.29206943536157,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
